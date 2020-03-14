@@ -28,6 +28,7 @@
     "moment": "2.18.1",
     "node-sass": "4.5.3",
     "normalize.css": "7.0.0",
+    "numeral": "2.0.6",
     "react": "^16.0.0",
     "react-addons-shallow-compare": "15.6.0",
     "react-dates": "12.7.0",
@@ -43,8 +44,8 @@
     "webpack": "3.1.0"
   },
   "devDependencies": {
-    "serve": "live-server public/",
     "live-server": "^1.2.1",
+    "serve": "live-server public/",
     "webpack-dev-server": "2.5.1"
   }
 }
