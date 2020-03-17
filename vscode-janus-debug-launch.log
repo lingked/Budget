@@ -1,9 +1,10 @@
-INFO |00003.576|JanusDebugSession: launchRequest
-DEBUG|00003.576|JanusDebugSession: my workspace: /home/lingkaizhao/Desktop/App/expensify-app
-DEBUG|00003.583|DebugAdapterIPC: connect to VS Code extension (sock1988)
-DEBUG|00003.618|DebugAdapterIPC: connected to VS Code extension
-DEBUG|00003.619|DebugAdapterIPC: findURIsInWorkspace
-INFO |00004.351|SourceMap: Additional paths found ["/home/lingkaizhao/Desktop/App/expensify-app/src/selectors/expenses.js","/home/lingkaizhao/Desktop/App/expensify-app/src/reducers/expenses.js","/home/lingkaizhao/Desktop/App/expensify-app/src/actions/expenses.js"]
-INFO |00004.352|SourceMap: Additional paths found ["/home/lingkaizhao/Desktop/App/expensify-app/src/reducers/filters.js","/home/lingkaizhao/Desktop/App/expensify-app/src/actions/filters.js"]
-ERROR|00004.385|JanusDebugSession: launchRequest failed: loading source from script failed: Error: ENOENT: no such file or directory, open '/home/lingkaizhao/Desktop/App/expensify-app/index.js'
-INFO |00004.393|JanusDebugSession: disconnectRequest
+INFO |00002.895|JanusDebugSession: launchRequest
+DEBUG|00002.896|JanusDebugSession: my workspace: /home/lingkaizhao/Desktop/App/expensify-app
+DEBUG|00002.904|DebugAdapterIPC: connect to VS Code extension (sock2060)
+DEBUG|00002.907|DebugAdapterIPC: connected to VS Code extension
+DEBUG|00002.908|DebugAdapterIPC: findURIsInWorkspace
+INFO |00002.962|SourceMap: Additional paths found ["/home/lingkaizhao/Desktop/App/expensify-app/src/selectors/expenses.js","/home/lingkaizhao/Desktop/App/expensify-app/src/reducers/expenses.js","/home/lingkaizhao/Desktop/App/expensify-app/src/actions/expenses.js"]
+INFO |00002.962|SourceMap: Additional paths found ["/home/lingkaizhao/Desktop/App/expensify-app/src/reducers/filters.js","/home/lingkaizhao/Desktop/App/expensify-app/src/actions/filters.js"]
+INFO |00002.962|SourceMap: Additional paths found ["/home/lingkaizhao/Desktop/App/expensify-app/src/reducers/auth.js","/home/lingkaizhao/Desktop/App/expensify-app/src/actions/auth.js"]
+ERROR|00002.970|JanusDebugSession: launchRequest failed: loading source from script failed: Error: ENOENT: no such file or directory, open '/home/lingkaizhao/Desktop/App/expensify-app/index.js'
+INFO |00002.978|JanusDebugSession: disconnectRequest
